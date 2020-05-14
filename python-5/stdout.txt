@@ -21,4 +21,4 @@ C:\Users\rafae\AppData\Local\Programs\Python\Python38-32\lib\site-packages\_pyte
 
 -- Docs: https://docs.pytest.org/en/latest/warnings.html
 ------ generated xml file: C:\Users\rafae\codenation\python-5\output.xml ------
-======================== 8 passed, 1 warning in 1.20s =========================
+======================== 8 passed, 1 warning in 7.30s =========================
